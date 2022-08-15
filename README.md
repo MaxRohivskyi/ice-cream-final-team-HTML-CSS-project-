@@ -1,3 +1,5 @@
+This project was developed as a team by NASHKODIV-Team. And it was the result of the GoIT CSS/HTML course. About Team: Oleh Starko – (Team Lead) - design, control and verification of the project; Max Rohivskyi – (Scrum Master) – Customer reviews section; Slava Malyi – Header; Bohdan Pishchak – Hero section; Yurii Shaklak – Products section; Vladislav Zmaga – How it’s made? section; Dmytro Samoylenko – Gallery section; Yaroslav Malyi – Contacts section; Lisa Lyakh – Footer section.
+
 **Read in other languages: [Русский](README.md), [Polski](README.pl.md).**
 
 # Parcel template
